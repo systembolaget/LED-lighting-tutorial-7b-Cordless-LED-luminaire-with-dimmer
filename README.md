@@ -4,11 +4,11 @@ Portable balcony, terrace, garden or restaurant lantern set-up, based on a **11.
 
 ### Result
 
-![](Assets/7a%20result.jpg)
+![](Assets/7b%20result.jpg)
 
 ### Schematic
 
-![](Assets/7a%20schematic.png)
+![](Assets/7b%20schematic.png)
 
 ### BOM
 
