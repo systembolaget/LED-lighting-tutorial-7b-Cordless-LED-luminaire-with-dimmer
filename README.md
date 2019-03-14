@@ -1,4 +1,4 @@
-# LED-lighting-tutorial-Cordless-LED-luminaire-with-dimmer
+# LED lighting tutorial - Cordless LED luminaire with dimmer
 
 Portable balcony, terrace, garden or restaurant lantern set-up, based on a **11.1V rechargeable Li-Ion battery**
 
