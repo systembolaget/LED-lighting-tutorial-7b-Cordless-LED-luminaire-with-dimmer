@@ -1,6 +1,6 @@
-# LED lighting tutorial - Cordless LED luminaire with dimmer
+# LED lighting tutorial - Cordless dimmable LED light lasting 12h @ 505lm with 3000K @ CRI 90
 
-Portable balcony, terrace, garden or restaurant lantern set-up, based on an **11.1V rechargeable Li-Ion battery**
+Get off the grid. Cut the cord. How to drive a high-CRI COB LED from a rechargeable 11,1V Li-Ion battery for 12 hours at full brightness
 
 ### Result
 
