@@ -1,4 +1,4 @@
-# LED lighting tutorial - Cordless dimmable LED light 12h @ 505lm with 3000K @ CRI 90
+# LED lighting tutorial - Cordless dimmable COB LED light for 12h @ 505lm
 
 Get off the grid. Cut the cord. How to drive a high-CRI COB LED from a rechargeable 11,1V Li-Ion battery for 12 hours at full brightness
 
